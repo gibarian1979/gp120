@@ -56,7 +56,7 @@ The following MSA was generated and annotated with V-loops.
 image::images/gp120-V1-V5-msa-HXB2.png[]
 
 
-See file seqs.afa for aligment in FASTA format.
+See file `seqs.afa`  for aligment in FASTA format or `seqs-msa.jvp` for Jalview.
 
 - red boxes are V-Loops (V1-V5)
 - green boxes are found Pradhan insert patterns
