@@ -5,7 +5,7 @@ https://www.biorxiv.org/content/10.1101/2020.01.30.927871v1
 image::images/pradhan-table.png[Pradhan table]
 
 
-== Methods
+= Methods
 
 All sequences from the Pradhan supplementary material XLS were retrieved.
 
@@ -39,21 +39,26 @@ muscle -in allseqs.fa -out allseqs.afa
 
 a multiple sequence alignment (MSA) was generated. 
 
-== Results
+[TIP]
+====
+Use EBIs online version of muscle to reconstruct the MSA at https://www.ebi.ac.uk/Tools/msa/muscle/.
+====
+
+= Results
 
 The following MSA was generated and annotated with V-loops.
 
 image::images/gp120-V1-V5-msa-HXB2.png[]
 
-See file://seqs.afa[seqs.afa] and Jalview file file://seqs.afa[seqs-msa.jvp].
+See file seqs.afa for aligment in FASTA format.
 
 - red boxes are V-Loops (V1-V5)
 - green boxes are found Pradhan insert patterns
-- in V1-loop there are no AAs from India
+- in V1-loop there are no amino acids from India
 - Indian gp120 sequences were only partial sequences
 
 
-== Conclusions
+= Conclusions
 
 - no insert from India in V1 possible, since no AAs for India seqs available (partial seqs, 230 aa long) 
 - Insert1 and Insert3 are BOTH in V4 (not V1,V4)
