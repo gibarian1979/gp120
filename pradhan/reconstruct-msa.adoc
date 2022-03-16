@@ -44,11 +44,17 @@ a multiple sequence alignment (MSA) was generated.
 Use EBIs online version of muscle to reconstruct the MSA at https://www.ebi.ac.uk/Tools/msa/muscle/.
 ====
 
+[TIP]
+====
+Use Jalview to visualize MSA https://www.jalview.org/
+====
+
 = Results
 
 The following MSA was generated and annotated with V-loops.
 
 image::images/gp120-V1-V5-msa-HXB2.png[]
+
 
 See file seqs.afa for aligment in FASTA format.
 
