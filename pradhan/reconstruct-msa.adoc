@@ -58,8 +58,8 @@ See file seqs.afa for aligment in FASTA format.
 - Indian gp120 sequences were only partial sequences
 
 
-= Conclusions
+= Conclusions (preliminary)
 
 - no insert from India in V1 possible, since no AAs for India seqs available (partial seqs, 230 aa long) 
-- Insert1 and Insert3 are BOTH in V4 (not V1,V4)
-- Insert2 is in V5 (correct)
+- Insert1 and Insert3 are *BOTH* in V4 (not V1,V4 seperately)
+- Insert2 could be confirmed to be in V5
