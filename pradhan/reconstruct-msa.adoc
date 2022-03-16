@@ -1,0 +1,60 @@
+= Reconstruction of Pradhan alignment
+
+https://www.biorxiv.org/content/10.1101/2020.01.30.927871v1
+
+image::images/pradhan-table.png[Pradhan table]
+
+
+== Methods
+
+All sequences from the Pradhan supplementary material XLS were retrieved.
+
+----
+country;Accesion ID;Subtype;Insert
+Thailand;AFU28737.1;CRF01_AE;Insert 1
+Thailand;AFU28711.1;CRF01_AE;Insert 1
+Thailand;AFU28717.1;CRF01_AE;Insert 1
+Thailand;AFU28733.1;CRF01_AE;Insert 1
+Thailand;AFU28693.1;CRF01_AE;Insert 1
+Thailand;AFU28721.1;CRF01_AE;Insert 1
+Thailand;AFU28699.1;CRF01_AE;Insert 1
+Thailand;AFU28729.1;CRF01_AE;Insert 1
+Thailand;AFU28705.1;CRF01_AE;Insert 1
+Thailand;AFU28725.1;CRF01_AE;Insert 1
+   Kenya;ALB06757.1;G       ;Insert 2
+   India;ACL98861.1;C       ;Insert 3
+   India;ACL98864.1;C       ;Insert 3
+   India;ACL98860.1;C       ;Insert 3
+   India;ACL98859.1;C       ;Insert 3
+   India;AKR75206.1;C       ;Insert 4
+----
+
+The sequence of http://people.biology.ucsd.edu/satish/Science/MePapers/korber.pdf[HXB2] was added to map V1-V5 loops to MSA. Additional PDB sequences for later structural mapping are also added.
+
+Using 
+
+----
+muscle -in allseqs.fa -out allseqs.afa
+----
+
+a multiple sequence alignment (MSA) was generated. 
+
+== Results
+
+The following MSA was generated and annotated with V-loops.
+
+image::images/gp120-V1-V5-msa-HXB2.png[]
+
+See file://seqs.afa[seqs.afa] and Jalview file file://seqs.afa[seqs-msa.jvp].
+
+- red boxes are V-Loops (V1-V5)
+- green boxes are found Pradhan insert patterns
+- in V1-loop there are no AAs from India
+- Indian gp120 sequences were only partial sequences
+
+
+== Conclusions
+
+- no insert from India in V1 possible, since no AAs for India seqs available (partial seqs, 230 aa long) 
+- Insert1 and Insert3 are BOTH in V4 (not V1,V4)
+- Insert2 is in V5 (correct)
