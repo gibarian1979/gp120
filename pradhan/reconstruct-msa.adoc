@@ -55,6 +55,11 @@ The following MSA was generated and annotated with V-loops.
 
 image::images/gp120-V1-V5-msa-HXB2.png[]
 
+Loops were identified by the HXB2-coordinates given in following figure
+
+image::images/gp120-v-loops.png[]
+
+from https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6019655/[PMC6019655]
 
 See file `seqs.afa`  for aligment in FASTA format or `seqs-msa.jvp` for Jalview.
 
