@@ -115,3 +115,7 @@ ____
 How did coronavirus spike NTDs originate and evolve? We propose that an ancestral coronavirus acquired a galectin-like domain from its host. Subsequently, an ancestral group 2a coronavirus incorporated a HE gene into its genome to aid viral detachment from sugars on infected cells. Later, the galectin-like NTD of MHV evolved additional novel structural elements that allowed it to bind mCEACAM1a. Using a protein receptor instead of sugar receptors greatly enhanced the attachment affinity between MHV and murine cells, making sugar-binding functions dispensable. Accordingly, MHV-A59 underwent changes in the sugar-binding site of its NTD, lost its sugar-binding activity, and stopped expressing its HE gene. In contrast, the galectin-like NTDs of some contemporary coronaviruses such as HCoV-OC43, BCoV, and TGEV retain the lectin activity, although their sugar specificities have diverged in three coronavirus groups and differ from those of contemporary human galectins. 
 ____
 
+== CD4 has structural equivalent to mCEACAM Spike binding domain
+
+image::images/CD4-CEACAM-MHV-Spike-NTD.gif[]
+
