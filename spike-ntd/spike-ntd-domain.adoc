@@ -135,8 +135,12 @@ image::images/neisseria-PilC-MHV-spike-NTD-mCEACAM.png[]
 
 MHV (SC2) NTD's galectin domain could bind H type 2 antigens.
 
+https://twitter.com/gibarian1979/status/1505111471277101057
+
 image::images/mhv-spike-ntd-galectin-h-type-2-antigen.png[]
 
 == SC2 Spike NTD's galectin binding domain 
 
 image::images/h-type-2-antigen-contact-zone.png[]
+
+https://twitter.com/gibarian1979/status/1503790636411011079
