@@ -121,16 +121,6 @@ image::images/CD4-similar-CEACAM.png[]
 
 image::images/CD4-CEACAM-MHV-Spike-NTD.gif[]
 
-== Neisseria PilC adhesion protein is similar to MHV Spike NTD
-
-Pairwise alignment of Neisseria PilC protein with PDB sequence from PilY1 (3HX6) has sequence identity of the matching domain of 30%. 
-
-image::images/PilY1-PilC-alignment.png[]
-
-and structural superposition of 3HX6 with MHV Spike NTD has a very good match
-
-image::images/neisseria-PilC-MHV-spike-NTD-mCEACAM.png[]
-
 == MHV Spike NTD has a galectin binding domain similar to 1ULD 
 
 MHV (SC2) NTD's galectin domain could bind H type 2 antigens.
